@@ -8,15 +8,15 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
-- 🔭 I'm currently working on Web3 frontend projects
-- 🌱 Building modern, performant user interfaces
-- ⚡ I love clean code and great architecture
+- I'm currently working on Web3 frontend projects
+- Building modern, performant user interfaces
+- I love clean code and great architecture
 
 ---
 
-### 🤝 Connect me:
+### Connect me:
 
 <a href="https://t.me/filvinno">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠 Languages & Tools I Have Placed My Hands On
+### Languages & Tools I Have Placed My Hands On
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@
 
 ---
 
-### 🏷 Tech Stack:
+### Tech Stack:
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
